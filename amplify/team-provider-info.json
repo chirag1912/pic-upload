@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-picupload-dev-141036-authRole",
+      "UnauthRoleArn": "arn:aws:iam::927602321583:role/amplify-picupload-dev-141036-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::927602321583:role/amplify-picupload-dev-141036-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-picupload-dev-141036-deployment",
+      "UnauthRoleName": "amplify-picupload-dev-141036-unauthRole",
+      "StackName": "amplify-picupload-dev-141036",
+      "StackId": "arn:aws:cloudformation:us-east-1:927602321583:stack/amplify-picupload-dev-141036/b1402bc0-4a4e-11ec-98a7-0ed9d0e0941f",
+      "AmplifyAppId": "d1giqglviy02wk"
+    },
+    "categories": {
+      "auth": {
+        "picupload84230b0d": {}
+      },
+      "storage": {
+        "picuploadf1957131": {
+          "bucketName": "filestoragebucketcmp281",
+          "region": "us-east-1"
+        }
+      }
+    }
+  }
+}
